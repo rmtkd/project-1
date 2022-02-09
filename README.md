@@ -1,5 +1,5 @@
 # Table of Contents
-1. [Installation](Installation)
+1. [Installation](project-1.ipynb)
 2. [Project Motivation](ProjectMotivation)
 3. [File Descriptions](FileDescriptions)
 4. [Results](Results)
