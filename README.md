@@ -24,7 +24,7 @@ The datasets are available in this [link](https://insights.stackoverflow.com/sur
 
 # Results
 
-The main results are available [here]().
+The main results are available [here](https://medium.com/@rmassakazu/3-things-you-need-to-know-before-starting-your-own-coding-business-10817b1d7b3d).
 
 # Licensing
 
