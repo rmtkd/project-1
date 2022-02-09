@@ -1,9 +1,9 @@
 # Table of Contents
 1. [Installation](https://github.com/rmtkd/project-1/blob/main/README.md#installation)
-2. [Project Motivation](https://github.com/rmtkd/project-1/edit/main/README.md#project-motivation)
-3. [File Descriptions](https://github.com/rmtkd/project-1/edit/main/README.md#file-descriptions)
-4. [Results](https://github.com/rmtkd/project-1/edit/main/README.md#results)
-5. [Licensing](https://github.com/rmtkd/project-1/edit/main/README.md#licensing)
+2. [Project Motivation](https://github.com/rmtkd/project-1/blob/main/README.md#project-motivation)
+3. [File Descriptions](https://github.com/rmtkd/project-1/blob/main/README.md#file-descriptions)
+4. [Results](https://github.com/rmtkd/project-1/blob/main/README.md#results)
+5. [Licensing](https://github.com/rmtkd/project-1/blob/main/README.md#licensing)
 
 # Installation
 
